@@ -7,4 +7,5 @@ MAINACTIVITY：
 ![Image text](http://chuantu.biz/t6/286/1523796523x-1404781066.png)
 
 gif：
-[img]http://i4.bvimg.com/641593/1b599b00b083c2eb.gif[/img]
+![Image text](http://i4.bvimg.com/641593/1b599b00b083c2eb.gif)
+
