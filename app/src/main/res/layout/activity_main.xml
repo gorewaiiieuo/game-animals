@@ -16,6 +16,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="51dp"
         android:text="PLAY"
+        android:gravity="center"
         android:textColor="#0060b6"
         android:textSize="28dp"
         android:background="#ffffff"/>
@@ -27,6 +28,7 @@
         android:layout_alignLeft="@+id/btn_play"
         android:layout_alignParentBottom="true"
         android:layout_alignStart="@+id/btn_play"
+        android:gravity="center"
         android:layout_marginBottom="79dp"
         android:background="#ffffff"
         android:textColor="#0060b6"
